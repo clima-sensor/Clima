@@ -1,8 +1,0 @@
-D:\!!C#\DevFinder\bin\Release\DevFinder.exe.config
-D:\!!C#\DevFinder\bin\Release\DevFinder.exe
-D:\!!C#\DevFinder\bin\Release\DevFinder.pdb
-D:\!!C#\DevFinder\obj\Release\DevFinder.Main.resources
-D:\!!C#\DevFinder\obj\Release\DevFinder.Properties.Resources.resources
-D:\!!C#\DevFinder\obj\Release\DevFinder.csproj.GenerateResource.Cache
-D:\!!C#\DevFinder\obj\Release\DevFinder.exe
-D:\!!C#\DevFinder\obj\Release\DevFinder.pdb
