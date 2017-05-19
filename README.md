@@ -1,2 +1,2 @@
-This is software part for project [Clima sensor](http://clima-sensor.ru)
-------------------------------------------------------------------------
+This is software part for project   [Clima sensor](http://clima-sensor.ru)
+--------------------------------------------------------------------------
